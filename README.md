@@ -1,2 +1,1 @@
-# brainrot-wiki
-Brainrot wiki
+To run the site just open index.html
