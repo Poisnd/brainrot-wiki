@@ -1,0 +1,2 @@
+# brainrot-wiki
+Brainrot wiki
